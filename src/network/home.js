@@ -1,6 +1,6 @@
 import axios from './axios'
 
-export const RECOMMEND = 'recommend'
+export const BANNER = 'banner'
 
 export function getHomeMultidata() {
   return axios({
